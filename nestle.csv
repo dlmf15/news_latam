@@ -1,0 +1,172 @@
+﻿company;brand_name;query;argentina;bolivia;brazil;chile;colombia;ecuador;mexico;peru
+NESTLE;NESTLE;"intext:""NESTLE"" OR intext:""NESTLÉ""";Si;Si;Si;Si;Si;Si;Si;Si
+NESTLE;AFTER EIGHT;"intext:""AFTER EIGHT"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";Si;Si;No;No;No;No;No;No
+NESTLE;ACQUA PANNA;"intext:""ACQUA PANNA"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;Si;No;No;No;No;No;No
+NESTLE;ALMONRIS;"(intext:""ALMONRIS"" OR intext:""ALMON RIS"" OR intext:""ALMON-RIS"" OR intext:""ALMON.RIS"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;ALPINO;"(intext:""ALPINO"" AROUND(5) (intext:""chocolate"" OR intext:""chocolates"")) AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;Si;No;No;No;No;No;No
+NESTLE;ANCHOR;"(intext:""ANCHOR"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")) OR intext:""leche ANCHOR"" OR intext:""ANCHOR leche""";No;Si;No;No;No;No;No;Si
+NESTLE;ANIMALINES Y SALADITAS;"intext:""ANIMALINES Y SALADITAS""";No;Si;No;No;No;No;No;No
+NESTLE;BANANITA DOLCA;"intext:""BANANITA DOLCA""";Si;No;No;No;No;No;No;No
+NESTLE;BATON;"intext:""BATON"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;BATÓN;"intext:""BATÓN"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";Si;No;No;No;No;No;No;No
+NESTLE;BENEFUL;"intext:""BENEFUL"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;Si;No;No
+NESTLE;BESOS DE MOZA;"intext:""BESOS DE MOZA"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;BONO;"(intext:""BONO"" AROUND(3) (intext:""galletitas"" OR intext:""galleta"" OR intext:""galletas"" OR intext:""biscoitos"" OR intext:""biscoito"")) AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;BOOST;"intext:""BOOST"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";Si;No;No;No;No;No;No;No
+NESTLE;BUON NATALE;"intext:""BUON NATALE"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;CALIPSO;"(intext:""CALIPSO"" AROUND(3) (intext:""galletitas"" OR intext:""galleta"" OR intext:""galletas"" OR intext:""biscoitos"" OR intext:""biscoito"")) AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;CARLOS V;"intext:""CARLOS V"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;Si;No;No
+NESTLE;CARNATION;"intext:""CARNATION"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;Si;No;No;No;No;No;No
+NESTLE;CAT CHOW;"(intext:""CAT CHOW"" OR intext:""CATCHOW"" OR intext:""CAT-CHOW"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""PURINA"")";No;Si;No;No;No;No;Si;Si
+NESTLE;CATCHOW;"intext:""CATCHOW"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""PURINA"")";No;No;No;No;No;No;Si;No
+NESTLE;CEREAL FITNESS;"((intext:""CEREAL"" OR intext:""CEREALES"") AROUND(3) intext:""FITNESS"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;CEREAL SUBLIME;"intext:""CEREAL SUBLIME"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;CEREAVENA;"intext:""CEREAVENA""";No;No;No;No;No;Si;No;No
+NESTLE;CERELAC;"intext:""CERELAC""";No;Si;No;No;No;Si;No;Si
+NESTLE;CHAMBINHO;"intext:""CHAMBINHO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;CHAMYTO;"intext:""CHAMYTO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;Si;No;No;No;No
+NESTLE;CHANDELLE;"intext:""CHANDELLE"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;Si;No;No;No;No
+NESTLE;CHARGE;"(intext:""CHARGE"" AROUND(5) intext:""chocolate"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"") location:bolivia";No;Si;No;No;No;No;No;No
+NESTLE;CHEERIOS;"intext:""CHEERIOS""";No;No;Si;No;No;Si;Si;Si
+NESTLE;CHOCAPIC;"intext:""CHOCAPIC""";No;Si;No;Si;No;Si;No;Si
+NESTLE;CHOCOLATES NESTLÉ;"intext:""CHOCOLATES NESTLÉ""";No;No;Si;No;No;No;No;No
+NESTLE;CHOCOTÓN;"intext:""CHOCOTÓN""";No;No;No;No;No;No;Si;No
+NESTLE;CINNAMON TOAST CRUNCH;"intext:""CINNAMON TOAST CRUNCH""";No;No;No;No;No;No;Si;No
+NESTLE;COCO CLASSIC;"intext:""COCO CLASSIC"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;Si;No;No
+NESTLE;COCOSETTE;"intext:""COCOSETTE""";No;No;No;No;No;Si;No;No
+NESTLE;COFFEE MATE;"(intext:""COFFEE MATE"" OR intext:""COFFEE-MATE"" OR intext:""COFFEMATE"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";Si;No;No;No;No;Si;Si;No
+NESTLE;COFFEE-MATE;"(intext:""COFFEE-MATE"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";Si;No;No;No;No;No;No;No
+NESTLE;COFFEMATE;"intext:""COFFEMATE"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;CONSOMATE;"intext:""CONSOMATE""";No;No;No;No;No;No;Si;No
+NESTLE;COOKIECRISP;"intext:""COOKIECRISP""";No;No;No;No;No;No;Si;No
+NESTLE;CORN FLAKES;"intext:""CORN FLAKES""";No;No;Si;No;No;No;No;No
+NESTLE;CRACKER;"(intext:""CRACKER"" OR intext:""CRACKERS"") AND (intext:""MABELS"" OR intext:""MABEL'S"") AND (intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"")";No;Si;No;No;No;No;No;No
+NESTLE;CREMOSITA;"intext:""CREMOSITA"" AND (intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"" OR intext:""biscoitos"" OR intext:""biscoito"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;Si;Si;No;No;No;No;No
+NESTLE;CROSSE AND BLACKWELL;"(intext:""CROSSE AND BLACKWELL"" OR intext:""CROSSE & BLACKWELL"" OR intext:""CROSSEnBLACKWELL"" OR intext:""CROSSEBLACKWELL"")";No;No;No;No;No;No;Si;No
+NESTLE;CRUNCH;"intext:""CRUNCH"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;Si;No;No;No;No;No;No
+NESTLE;D'ONOFRIO;"intext:""D'ONOFRIO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""CHOCOTÓN"")";No;No;No;No;No;Si;No;No
+NESTLE;DANKY;"intext:""DANKY"" AND (intext:""helado"" OR intext:""helados"" OR intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;Si;No;No;No;No
+NESTLE;DECAF;"intext:""DECAF"" AROUND(3) (intext:""NESCAFÉ"" OR intext:""NESCAFE"")";No;Si;No;No;No;No;No;Si
+NESTLE;DENTALIFE;"intext:""DENTALIFE"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""PURINA""))";No;No;No;No;No;No;No;Si
+NESTLE;DOG CHOW;"(intext:""DOG CHOW"" OR intext:""DOGCHOW"" OR intext:""DOG-CHOW"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""PURINA"")";No;Si;No;No;No;No;Si;No
+NESTLE;DOGCHOW;"intext:""DOGCHOW"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""PURINA"")";No;No;No;No;No;No;Si;No
+NESTLE;DOGUI;"intext:""DOGUI"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""PURINA"")";No;Si;No;No;No;No;No;No
+NESTLE;DOGUITOS;"intext:""DOGUITOS"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""PURINA"")";No;Si;No;No;No;No;No;Si
+NESTLE;DOIS FRADES;"intext:""DOIS FRADES"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;DOLCA;"intext:""DOLCA"" -""BANANITA DOLCA""";Si;No;No;No;No;No;Si;No
+NESTLE;DOLCE GUSTO;"intext:""DOLCE GUSTO"" OR intext:""DOLCEGUSTO"" OR intext:""DOLCE-GUSTO""";Si;No;Si;Si;Si;Si;No;Si
+NESTLE;DOLCEGUSTO;"intext:""DOLCEGUSTO""";No;No;No;No;Si;Si;No;No
+NESTLE;DORÉ;"intext:""DORÉ"" AROUND(2) (intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"" ))";No;No;No;No;No;No;No;Si
+NESTLE;DULCICREMA;"intext:""DULCICREMA""";No;No;No;No;No;No;Si;No
+NESTLE;ECCO;"intext:""ECCO"" AROUND(5) (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""CAFÉ"" OR intext:""CAFE"" OR intext:""cebada"")";No;Si;No;No;No;No;No;Si
+NESTLE;ESTRELITAS;"intext:""ESTRELITAS"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;ESTRELLITAS;"intext:""ESTRELLITAS"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;FANCY FEAST;"intext:""FANCY FEAST"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""PURINA"")";No;No;No;No;No;No;Si;No
+NESTLE;FARINHA LÁCTEA NESTLÉ;"intext:""FARINHA LÁCTEA"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;Si;No;No
+NESTLE;FELIX TRAVESURAS;"intext:""FELIX TRAVESURAS"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""PURINA"")";No;No;No;No;No;No;No;Si
+NESTLE;FIBERMAIS;"(intext:""FIBERMAIS"" OR intext:""FIBERMAIS"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;FRESKAS;"intext:""FRESKAS"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;FRÍO RICO;"intext:""FRÍO RICO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;GALAK;"intext:""GALAK"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;GAROTO;"intext:""GAROTO"" AND (intext:""CHOCOLATES"" OR intext:""CHOCOLATE"" OR intext:""BOMBONES"" OR intext:""BOMBOMES"" OR intext:""BOMBOM"" OR intext:""BOMBON"")  AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";Si;No;Si;No;No;No;No;No
+NESTLE;GATI;"intext:""GATI"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""PURINA"")";No;Si;No;No;No;No;No;Si
+NESTLE;GAUCHITAS;"intext:""GAUCHITAS"" AND (intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"" OR intext:""NESTLE"" OR intext:""NESTLÉ"")";No;Si;No;No;No;No;No;No
+NESTLE;GERBER;"intext:""GERBER"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;Si;Si;No
+NESTLE;GERBER LOGO;"intext:""GERBER LOGO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;GOOD CARE;"intext:""GOOD CARE"" AND (intext:""formula"" OR intext:""formulas"" OR intext:""fórmula"" OR intext:""fórmulas"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;GREGO;"intext:""GREGO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;HUESTITOS;"intext:""HUESITOS"" AND intext:""jugo"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;Si;No;No
+NESTLE;KIRMA;"intext:""KIRMA"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""NESCAFE"" OR intext:""NESCAFÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;KIT KAT;"intext:""KIT KAT"" OR intext:""KITKAT"" OR intext:""KIT-KAT""";Si;Si;Si;Si;Si;Si;Si;Si
+NESTLE;KITKAT;"intext:""KITKAT""";Si;No;Si;Si;Si;Si;Si;No
+NESTLE;KLIM;"intext:""KLIM"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;Si;No;No;No;No
+NESTLE;LA LECHERA;"intext:""LA LECHERA"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";Si;No;No;No;Si;No;Si;No
+NESTLE;LARIN;"(intext:""LARIN"" OR intext:""LARÍN"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;LES RECETTES DE L'ATELIER;"intext:""LES RECETTES DE L'ATELIER"" OR intext:""LES RECETTES DE LATELIER""";No;No;Si;No;No;No;No;No
+NESTLE;LOGO NESQUIK;"intext:""LOGO NESQUIK""";No;Si;No;No;No;No;No;No
+NESTLE;LUCKY CHARMS;"intext:""LUCKY CHARMS"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;MAGGI;"intext:""MAGGI"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";Si;Si;Si;Si;Si;Si;Si;Si
+NESTLE;MARIA MAIZENA;"intext:""MARIA MAIZENA"" AND (intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"" OR intext:""NESTLE"" OR intext:""NESTLÉ"")";No;Si;No;No;No;No;No;Si
+NESTLE;MCKAY;"intext:""MCKAY"" AND (intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;MEGA;"intext:""MEGA"" AND (intext:""helado"" OR intext:""helados"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;Si;No;No;No;No
+NESTLE;MILO;"intext:""MILO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;Si;No;No;No;No
+NESTLE;MOÇA;"intext:""MOÇA"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;MOLICO;"intext:""MOLICO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;MORELIA;"(intext:""MORELIA"" AND (intext:""chocolate"" OR intext:""chocolates"")) AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;Si;No;No
+NESTLE;MOTTA;"(intext:""MOTTA"" AND (intext:""gelati"" OR intext:""helado"" OR intext:""helados"" OR intext:""paneton"" OR intext:""panetón"" OR intext:""panettone"")) AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;MUCILON;"intext:""MUCILON"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;NAN;"intext:""NAN"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;Si;No;No;No;No
+NESTLE;NAN OPTIPRO 3;"intext:""NAN OPTIPRO 3""";No;Si;No;No;No;No;No;No
+NESTLE;NATURNES;"(intext:""NATURNES"" OR intext:""NATURNÉS"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;Si;No;No;No
+NESTLE;NEGRESCO;"intext:""NEGRESCO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;NESCAFE;"intext:""NESCAFE"" OR intext:""NESCAFÉ""";Si;No;Si;Si;Si;No;Si;Si
+NESTLE;NESCAFÉ;"intext:""NESCAFÉ""";Si;No;Si;Si;No;No;Si;Si
+NESTLE;NESCAU;"intext:""NESCAU""";No;No;Si;No;No;No;No;No
+NESTLE;NESFIT;"intext:""NESFIT""";Si;No;Si;No;No;No;No;No
+NESTLE;NESLAC;"intext:""NESLAC""";No;No;Si;No;No;No;No;No
+NESTLE;NESPRESSO;"intext:""NESPRESSO""";Si;No;Si;Si;No;No;Si;No
+NESTLE;NESQUIK;"intext:""NESQUIK""";Si;Si;Si;No;No;No;Si;Si
+NESTLE;NESTEA;"intext:""NESTEA""";No;No;No;Si;No;No;No;No
+NESTLE;NESTLÉ AGÜITAS;"intext:""AGÜITAS"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;NESTLÉ CEREAL CARLOS V;"intext:""NESTLÉ CEREAL CARLOS V""";No;No;No;No;No;No;No;Si
+NESTLE;NESTLÉ CLASSIC;"intext:""NESTLÉ CLASSIC"" OR intext:""NESTLE CLASSIC"" ";Si;No;No;No;No;No;No;No
+NESTLE;NESTLÉ CORN FLAKES;"intext:""NESTLÉ CORN FLAKES""";No;No;No;No;No;No;Si;No
+NESTLE;NESTLÉ DAISY;"(intext:""DAISY"" AND (intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"")) AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;Si;No;No
+NESTLE;NESTLÉ FITNESS;"intext:""NESTLÉ FITNESS""";No;No;No;No;No;No;Si;No
+NESTLE;NESTLE GALAK;"intext:""NESTLE GALAK""";No;No;No;No;No;No;Si;No
+NESTLE;NESTLÉ HEALTH SCIENCE-AAA;"intext:""NESTLÉ HEALTH SCIENCE"" OR intext:""NESTLE HEALTH SCIENCE""";No;No;No;No;No;No;No;Si
+NESTLE;NESTLÉ MARIA;"intext:""MARIA"" AROUND(3) (intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;NESTLE MILO;"intext:""NESTLE MILO""";No;No;No;No;No;No;Si;No
+NESTLE;NESTLÉ MIO;"intext:""NESTLE MIO"" OR intext:""NESTLÉ MIO"" OR intext:""NESTLE MÍO"" OR intext:""NESTLÉ MÍO""";No;No;Si;No;No;No;No;No
+NESTLE;NESTLE MUECAS;"intext:""MUECAS"" AROUND(3) (intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;NESTLÉ NATURNES;"intext:""NESTLÉ NATURNES""";No;No;Si;No;No;No;No;No
+NESTLE;NESTLÉ PROFESSIONAL;"intext:""NESTLÉ PROFESSIONAL"" OR intext:""NESTLE PROFESSIONAL""";No;No;Si;No;No;No;No;No
+NESTLE;NESTLÉ PUREZA VITAL;"intext:""PUREZA VITAL"" OR intext:""PUREZAVITAL"" OR intext:""PUREZA-VITAL""";Si;No;Si;No;No;No;No;Si
+NESTLE;NESTOGENO;"intext:""NESTOGENO"" AND (intext:""formula"" OR intext:""formulas"" OR intext:""fórmula"" OR intext:""fórmulas"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;NESTON;"intext:""NESTON"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;NESTONUTRI;"intext:""NESTONUTRI""";No;No;Si;No;No;No;No;No
+NESTLE;NESTUM;"intext:""NESTUM""";Si;Si;No;Si;Si;Si;No;Si
+NESTLE;NHSC-CASEC;"intext:""CASEC"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;NHSC-PEPTAMEN-JR;"intext:""PEPTAMEN JUNIOR"" OR intext:""PEPTAMENJUNIOR"" OR intext:""PEPTAMEN-JUNIOR""";No;No;No;No;No;No;No;Si
+NESTLE;NIDO CRECIMIENTO;"intext:""NIDO"" AND intext:""CRECIMIENTO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;Si;No;No;No;No;No;No
+NESTLE;NIDO LOGO;"intext:""NIDO LOGO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;NINHO;"intext:""NINHO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;NUTREN;"intext:""NUTREN"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;OPTIFIBRE;"intext:""OPTIFIBRE"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;PASSATEMPO;"intext:""PASSATEMPO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;PELLEGRINO;"(intext:""SAN PELLEGRINO"" OR intext:""SANPELLEGRINO"" OR intext:""SAN-PELLEGRINO"" OR intext:""S.PELLEGRINO"" OR intext:""S. PELLEGRINO"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""agua con gas"" OR intext:""agua mineral"")";No;No;Si;No;No;Si;No;No
+NESTLE;PERRIER;"intext:""PERRIER"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""agua con gas"" OR intext:""agua mineral"")";No;No;Si;No;No;No;No;No
+NESTLE;PEZIDURI;"intext:""PEZIDURI""";No;No;No;No;No;No;No;Si
+NESTLE;PRESTÍGIO;"(intext:""PRESTÍGIO"" OR intext:""PRESTIGIO"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;Si;No
+NESTLE;PRINCESA;"intext:""PRINCESA"" AROUND(3) (intext:""chocolate"" OR intext:""chocolates"" OR intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;PRO PLAN;"(intext:""PRO PLAN"" OR intext:""PROPLAN"" OR intext:""PRO-PLAN"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""PURINA"")";No;Si;No;No;No;No;Si;No
+NESTLE;PROPLAN;"intext:""PROPLAN"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;PUREZAVITAL;"intext:""PUREZAVITAL"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;PURINA;"intext:""PURINA""";Si;No;Si;Si;Si;Si;No;Si
+NESTLE;RESERVAMEXICANA;"intext:""RESERVAMEXICANA"" OR intext:""RESERVA MEXICANA"" OR intext:""RESERVA-MEXICANA"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"" OR intext:""NESCAFE"" OR intext:""NESCAFÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;SAHNE-NUSS;"(intext:""SAHNE-NUSS"" OR intext:""SAHNENUSS"" OR intext:""SAHNE NUSS"") AND (intext:""chocolate"" OR intext:""chocolates"")";No;No;No;No;Si;No;No;No
+NESTLE;SAN PELLEGRINO;"intext:""SAN PELLEGRINO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;SÃO LUIZ;"(intext:""SÃO LUIZ"" OR intext:""SÃOLUIZ"" OR intext:""SÃO-LUIZ"" OR intext:""SAO LUIZ"" OR intext:""SAOLUIZ"" OR intext:""SAO-LUIZ"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;SAVORY;"intext:""SAVORY"" AND (intext:""helado"" OR intext:""helados"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;Si;Si;Si;Si;No
+NESTLE;SMARTIES;"intext:""SMARTIES"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";Si;No;No;No;No;No;No;No
+NESTLE;SNOW FLAKES;"intext:""SNOW FLAKES"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;SORRENTO;"intext:""SORRENTO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;SORVETES NESTLÉ;"intext:""SORVETES NESTLÉ"" OR intext:""SORVETES NESTLE""";No;No;Si;No;No;No;No;No
+NESTLE;STAMARIA;"(intext:""STA.MARÍA"" OR intext:""STA. MARÍA"" OR intext:""STA MARIA"") AND intext:""agua"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;No;Si
+NESTLE;SUBLIME;"intext:""SUBLIME"" AND (intext:""chocolate"" OR intext:""chocolates"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"") -""caja roja""";No;No;No;No;No;Si;No;No
+NESTLE;SUFLAIR;"intext:""SUFLAIR""";Si;No;Si;No;No;No;No;No
+NESTLE;SVELTY;"intext:""SVELTY""";Si;No;No;Si;No;Si;No;No
+NESTLE;TALENTO;"intext:""TALENTO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;Si;No;No;No;No;No
+NESTLE;TASTERS;"(intext:""TASTERS CHOICE"" OR intext:""TASTER'S CHOICE"" OR intext:""TASTERSCHOICE"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;TERRAFERTIL;"intext:""TERRAFERTIL"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;Si;No;No;No;No
+NESTLE;TIDY CATS;"intext:""TIDY CATS"" OR intext:""TIDYCATS""";No;No;Si;No;No;No;No;No
+NESTLE;TINLARIN;"(intext:""TINLARIN"" OR intext:""TIN LARIN"" OR intext:""TINLARÍN"" OR intext:""TIN LARÍN"") AND (intext:""chocolate"" OR intext:""chocolates"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
+NESTLE;TOP;"intext:""TOP"" AROUND(3) (intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;Si;No;No;No;No;No;Si
+NESTLE;TOSTINES;"intext:""TOSTINES"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;Si;No;No;No;No
+NESTLE;TRENCITO;"intext:""TRENCITO"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;Si;No;No;No
+NESTLE;TRIÁNGULO;"(intext:""TRIÁNGULO"" OR intext:""TRIANGULO"") AND (intext:""chocolate"" OR intext:""chocolates"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;Si
+NESTLE;TRITON;"(intext:""TRITON"" OR intext:""TRITÓN"") AND (intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"") AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;Si;No;No;No;No
+NESTLE;TRIX;"intext:""TRIX"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";Si;Si;No;No;No;Si;Si;Si
+NESTLE;WAFER MABELS;"(intext:""MABELS"" OR intext:""MABEL'S"" OR intext:""MABEL"") AND intext:""WAFER"" AND (intext:""galleta"" OR intext:""galletas"" OR intext:""galletitas"" OR intext:""biscoitos"" OR intext:""biscoito"") ";No;No;Si;No;No;No;No;No
+NESTLE;WHOLE EARTH FARMS;"intext:""WHOLE EARTH FARMS"" OR intext:""WHOLE-EARTH FARMS"" OR intext:""WHOLEEARTHFARMS""";Si;No;No;No;No;No;No;No
+NESTLE;YOGU YOGU;"intext:""YOGU YOGU"" AND (intext:""NESTLE"" OR intext:""NESTLÉ"")";No;No;No;No;No;No;Si;No
